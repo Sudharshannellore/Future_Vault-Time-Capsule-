@@ -32,6 +32,33 @@
       <li>Router Page</li>
     </ul>
 </div>
-![Screenshot 2025-01-03 173026](https://github.com/user-attachments/assets/f2190ea5-a15a-42fd-955a-7253ee65f666)
+
+<div>
+   <h2>Website</h2>
+</div>
+<br></br>
+<div>
+   <p>Home Page</p>
+<img src="https://github.com/user-attachments/assets/f2190ea5-a15a-42fd-955a-7253ee65f666" />
+<br></br>
+ <p>Register Page</p>
+<img src="https://github.com/user-attachments/assets/f2190ea5-a15a-42fd-955a-7253ee65f666" />
+   <br></br>
+ <p>Login Page</p>
+<img src="https://github.com/user-attachments/assets/f2190ea5-a15a-42fd-955a-7253ee65f666" />
+   <br></br>
+<p>Capsule Dashbord Page</p>
+<img src="https://github.com/user-attachments/assets/f2190ea5-a15a-42fd-955a-7253ee65f666" />
+<br></br>
+p>Capsule form popup</p>
+<img src="https://github.com/user-attachments/assets/f2190ea5-a15a-42fd-955a-7253ee65f666" />
+   <br></br>
+<p>Capsule lock popup</p>
+<img src="https://github.com/user-attachments/assets/f2190ea5-a15a-42fd-955a-7253ee65f666" />
+   <br></br>
+  <p>Capsule Unlock popup</p>
+<img src="https://github.com/user-attachments/assets/f2190ea5-a15a-42fd-955a-7253ee65f666" />
+   <br></br>  
+</div>
 
 
