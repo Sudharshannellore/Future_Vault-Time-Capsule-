@@ -39,25 +39,25 @@
 <br></br>
 <div>
    <p>Home Page</p>
-<img src="https://github.com/user-attachments/assets/f2190ea5-a15a-42fd-955a-7253ee65f666" />
+<img src="https://github.com/user-attachments/assets/f2190ea5-a15a-42fd-955a-7253ee65f666" height="400px"  height="300px" />
 <br></br>
  <p>Register Page</p>
-<img src="https://github.com/user-attachments/assets/f2190ea5-a15a-42fd-955a-7253ee65f666" />
+<img src="https://github.com/user-attachments/assets/09c141d6-36ce-43a7-9114-debb2b34d107" height="400px"  height="300px" />
    <br></br>
  <p>Login Page</p>
-<img src="https://github.com/user-attachments/assets/f2190ea5-a15a-42fd-955a-7253ee65f666" />
+<img src="https://github.com/user-attachments/assets/a8a0b164-98b4-4fe5-b9b7-4149659fe70d" height="400px"  height="300px" />
    <br></br>
 <p>Capsule Dashbord Page</p>
-<img src="https://github.com/user-attachments/assets/f2190ea5-a15a-42fd-955a-7253ee65f666" />
+<img src="https://github.com/user-attachments/assets/be9194ce-1e16-4546-8408-7f626679ed2d" height="400px"  height="300px" />
 <br></br>
 p>Capsule form popup</p>
-<img src="https://github.com/user-attachments/assets/f2190ea5-a15a-42fd-955a-7253ee65f666" />
+<img src="https://github.com/user-attachments/assets/122e1585-fd01-419a-93e7-e2af5ffd6470" height="400px"  height="300px" />
    <br></br>
 <p>Capsule lock popup</p>
-<img src="https://github.com/user-attachments/assets/f2190ea5-a15a-42fd-955a-7253ee65f666" />
+<img src="https://github.com/user-attachments/assets/5c90c8aa-9369-4974-b6ad-901a167c7120" height="400px"  height="300px" />
    <br></br>
   <p>Capsule Unlock popup</p>
-<img src="https://github.com/user-attachments/assets/f2190ea5-a15a-42fd-955a-7253ee65f666" />
+<img src="https://github.com/user-attachments/assets/39566d60-3753-466c-8806-bd72f9a9bc8b" height="400px"  height="300px" />
    <br></br>  
 </div>
 
