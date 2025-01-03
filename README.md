@@ -50,7 +50,7 @@
 <p>Capsule Dashbord Page</p>
 <img src="https://github.com/user-attachments/assets/be9194ce-1e16-4546-8408-7f626679ed2d" height="400px"  height="300px" />
 <br></br>
-p>Capsule form popup</p>
+<p>Capsule form popup</p>
 <img src="https://github.com/user-attachments/assets/122e1585-fd01-419a-93e7-e2af5ffd6470" height="400px"  height="300px" />
    <br></br>
 <p>Capsule lock popup</p>
