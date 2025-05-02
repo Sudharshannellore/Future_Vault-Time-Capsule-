@@ -1,4 +1,5 @@
 <h1>Future Vault</h1>
+<p>The Virtual Time Capsule lets users create and share digital capsules with memorable text, set to unlock on specific conditions. Built with React.js and Spring Boot, it ensures secure, user-friendly access. Ideal for preserving memories or milestones.</p>
 <div>
    <h2>Backend Development with Spring Boot</h2>
    <p>Include dependencies</p>
